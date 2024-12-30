@@ -1,80 +1,82 @@
-# Human Resources Dashboard Project
-This project features an interactive Tableau dashboard designed to visualize and analyze HR data effectively. It provides insights into employee demographics, performance, salaries, and more.
+# Tableau Dashboards: Human Resources Analysis
 
-## 📊 Overview
+## Project Overview
+This repository contains interactive Tableau dashboards designed to analyze and visualize human resource data. These dashboards offer valuable insights into employee demographics, performance, income, and organizational trends.
 
-### Dashboard Highlights:
+---
 
-#### Overview Section:
+## Dashboards Included
+### 1. **Overview Dashboard**
+- **Key Metrics**:
+  - Active Employees: 7,984
+  - Hired Employees: 8,950
+  - Terminated Employees: 966
+- **Visuals**:
+  - Hiring and termination trends over time
+  - Employee distribution across departments
+  - Employee location mapping (HQ vs. branches)
 
-Total active employees: 7,984.
+### 2. **Demographics Dashboard**
+- **Key Metrics**:
+  - Gender Distribution: Male (54%), Female (46%)
+  - Education & Age Distribution
+- **Visuals**:
+  - Gender-based employee representation
+  - Correlation between education levels, performance, and age
 
-Hired vs. Terminated employees.
+### 3. **Income Dashboard**
+- **Key Metrics**:
+  - Income by Education: High School ($61K–$63K), PhD ($80K–$93K)
+- **Visuals**:
+  - Salary comparisons based on education levels and gender
+  - Age vs. Salary trends using scatter plots
 
-Department-wise employee breakdown.
+### 4. **Details Dashboard**
+- **Key Features**:
+  - Comprehensive employee list with details like:
+    - Job title, department, and location
+    - Salary, length of employment, and status
+  - Filters for interactive data exploration:
+    - Gender, education level, job role, location, and more
 
-Geographical distribution of employees.
+---
 
-#### Demographics:
+## Tools Used
+- **Tableau**: For creating interactive and visually appealing dashboards.
+- **Dataset**: Simulated HR data for demonstration purposes.
 
-Gender and age group distribution.
+---
 
-Employee education levels.
+## Project Highlights
+- Analyzed hiring and termination trends to identify workforce patterns.
+- Visualized demographic data to support diversity and inclusion initiatives.
+- Provided salary insights to assist in compensation analysis.
+- Enabled detailed employee-level analysis for strategic decision-making.
 
-Correlation between education levels and performance.
+---
 
-#### Income Analysis:
+## Files in Repository
+- **Images**:
+  - `overview_dashboard.jpg`: Screenshot of the Overview Dashboard.
+  - `details_dashboard.jpg`: Screenshot of the Details Dashboard.
+- **Tableau Workbook**:
+  - `hr_dashboards.twbx`: Tableau workbook file containing all dashboards.
 
-Salary ranges segmented by gender and education level.
+---
 
-Visual analysis of age vs. salary trends.
+## How to Use
+1. **View Dashboards**:
+   - Clone this repository to your local machine.
+   - Open the Tableau workbook (`hr_dashboards.twbx`) in Tableau Desktop.
+2. **Explore Insights**:
+   - Use the interactive filters to analyze specific segments of data.
+3. **Customization**:
+   - Replace the dataset with your own HR data to adapt the dashboards for your organization.
 
-### Details Section:
+---
 
-Comprehensive employee list with the following details:
-
-Demographics: Name, gender, age group, education level.
-
-Role: Job title and department.
-
-Geographics: Location, city, state.
-
-Salary and Employment: Salary details, hire/terminate date, and employment duration.
-
-### 🛠️ Technologies Used
-
-Tableau: For creating the interactive dashboards.
-
-Data Source: CSV/Excel.
-
-GitHub: To host and share the project repository.
-
-### 🌟 Features
-
-Interactive filters to explore data dynamically (e.g., by gender, location, or status).
-
-Visualizations for actionable insights:
-
-Bar charts, scatter plots, and pie charts.
-
-Geographical maps.
-
-Matrix for education and performance metrics.
-
-### 🚀 How to View the Dashboard
-
-Download the .twbx Tableau file from this repository.
-
-Open it using Tableau Desktop (2021.4 or later).
-
-Interact with the dashboard to explore the HR insights.
-
-### 📬 Contact
-
-For any questions or suggestions, feel free to reach out:
-
-Name: Mohsin Raza
-
-Email: mohsinansari1799@gmail.com
-
-LinkedIn: www.linkedin.com/in/mohsin--raza
+## Contact
+For questions or feedback, feel free to reach out:
+- **Name**: Mohsin Raza
+- **E-Mail**: mohsinansari1799@gmail.com
+- **LinkedIn**: www.linkedin.com/in/mohsin--raza
