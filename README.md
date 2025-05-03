@@ -10,9 +10,9 @@ Welcome to the Human Resources Dashboard! 🏢 This Tableau project provides a c
 ## 🔑 Key Metrics
 
 - 👩‍💼👨‍💼 ****Active Employees****: **7,984**  
--📅   ****Hired****: **8,950**  
--🚪   ****Terminated****: **966**  
--👥   ****Gender Distribution****: **54% Male, 46% Female**
+- 📅   ****Hired****: **8,950**  
+- 🚪   ****Terminated****: **966**  
+- 👥   ****Gender Distribution****: **54% Male, 46% Female**
 
 ---
 
