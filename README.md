@@ -9,19 +9,20 @@ Welcome to the Human Resources Dashboard! 🏢 This Tableau project provides a c
 
 ## 🔑 Key Metrics
 
-👩‍💼👨‍💼 Active Employees: 7,984  
+👩‍💼👨‍💼 ****Active Employees****: **7,984**  
 
-📅 Hired: 8,950  
+📅   ****Hired****: **8,950**  
 
-🚪 Terminated: 966  
+🚪   ****Terminated****: **966**  
 
-👥 Gender Distribution: 54% Male, 46% Female
+👥   ****Gender Distribution****: **54% Male, 46% Female**
 
 ---
 
 ## 🛠️ Dashboard Features
 
 The dashboard is designed to help HR professionals explore workforce data with ease. Use the filters to customize your analysis and uncover trends in employee demographics, performance, and more! 🔍
+
 
 ## 📊 Visualizations
 
@@ -130,27 +131,27 @@ Here’s a glimpse of the dashboard! 🖼️
 
 Customize your analysis with these filters:  
 
-👥 Gender: All, Male, Female  
+👥 ***Gender***: All, Male, Female  
 
-📍 Location: All, HQ, Branch  
+📍 ***Location***: All, HQ, Branch  
 
-📅 Status: All, Hired, Terminated  
+📅 ***Status***: All, Hired, Terminated  
 
-📅 Hire Date: All or specific dates  
+📅 ***Hire Date***: All or specific dates  
 
-📋 Employee List Filters (Details page): Employee ID, Full Name, Gender, Job Role, Department, Education Level, City, Salary, Status, Year of Hire, Year of Termination, Length of Hire
+📋 ***Employee List Filters (Details page)***: Employee ID, Full Name, Gender, Job Role, Department, Education Level, City, Salary, Status, Year of Hire, Year of Termination, Length of Hire
 
 ---
 
 ## 🚀 Usage
 
-Open the Dashboard: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
+***Open the Dashboard***: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
 
-Navigate Pages: Switch between Overview and Details tabs. 📑  
+***Navigate Pages***: Switch between Overview and Details tabs. 📑  
 
-Apply Filters: Use the dropdowns to filter by Gender, Location, Status, Hire Date, or employee-specific fields. 🎛️
+***Apply Filters***: Use the dropdowns to filter by Gender, Location, Status, Hire Date, or employee-specific fields. 🎛️
 
-Interact: Hover over charts for details or click to drill down. 🖱️
+***Interact***: Hover over charts for details or click to drill down. 🖱️
 
 ---
 
@@ -160,21 +161,21 @@ Tableau Desktop or Tableau Public to view and interact with the dashboard.
 
 The dataset is preloaded in the workbook. To replicate, ensure your dataset includes:  
 
-  - Employee demographics (gender, age, education level)
+  - ***Employee demographics*** (gender, age, education level)
     
-  - Employment details (job role, department, hire date, termination date, length of hire)
+  - ***Employment details*** (job role, department, hire date, termination date, length of hire)
     
-  - Geographic data (city, HQ/Branch)
+  - ***Geographic data*** (city, HQ/Branch)
     
-  - Performance metrics (performance ratings)
+  - ***Performance metrics*** (performance ratings)
      
-  - Compensation data (salary)
+  - ***Compensation data*** (salary)
 
 ---
 
 ## 🤝 Contributing
 
-Love this dashboard? Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
+**Love this dashboard?** Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
 
 ---
 
