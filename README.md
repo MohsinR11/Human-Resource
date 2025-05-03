@@ -1,4 +1,4 @@
-# Tableau Dashboards: Human Resources Analysis
+# Human Resources Analysis
 
 ## Project Overview
 This repository contains interactive Tableau dashboards designed to analyze and visualize human resource data. These dashboards offer valuable insights into employee demographics, performance, income, and organizational trends.
