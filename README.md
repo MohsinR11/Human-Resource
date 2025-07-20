@@ -6,7 +6,7 @@
 
 Welcome to the **Human Resources Dashboard!** 🏢  
 This **Tableau** project delivers a detailed analysis of **HR data**, covering employee demographics, performance, education, and employment details.  
-It’s split into **two pages — Overview and Details —** for both **high-level trends** and **granular employee-level insights**, based on **7,984 active employees**. 📊
+It’s split into **two pages — Overview and Details -** for both **high-level trends** and **granular employee-level insights**, based on **7,984 active employees**. 📊
 
 ---
 
@@ -84,12 +84,12 @@ It’s split into **two pages — Overview and Details —** for both **high-lev
 
 ## 🎨 Screenshots
 
-**Page 1 — Overview:**  
+**Page 1 - Overview:**  
 ![image](https://github.com/user-attachments/assets/4b90fef1-6792-4323-85f4-ed0cf5b73978)
 
 ---
 
-**Page 2 — Details:**  
+**Page 2 - Details:**  
 ![image](https://github.com/user-attachments/assets/10212347-a7fb-4a78-90f3-4cded530c942)
 
 ---
@@ -139,7 +139,7 @@ Ideas for new visuals or features are always welcome!
 
 ## 🌟 About Me
 
-Hey! I’m **Mohsin Raza** — an aspiring *Data Analyst, Business Analyst, Data Engineer, BI Developer, and SQL Developer* passionate about turning raw data into actionable insights.
+Hey! I’m **Mohsin Raza** - an aspiring *Data Analyst, Business Analyst, Data Engineer, BI Developer, and SQL Developer* passionate about turning raw data into actionable insights.
 
 **Let’s connect!**
 
